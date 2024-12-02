@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.fetchrewardsapp-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.fetchrewardsapp-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.fetchrewardsapp-merged_res-33:/mipmap_ic_launcher_round.png.flat",
+        "source": "com.example.fetchrewardsapp-main-35:/mipmap/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.fetchrewardsapp-merged_res-33:/mipmap_ic_launcher.png.flat",
+        "source": "com.example.fetchrewardsapp-main-35:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.fetchrewardsapp-merged_res-33:/layout_item_view.xml.flat",
+        "source": "com.example.fetchrewardsapp-main-35:/layout/item_view.xml"
+    }
+]
